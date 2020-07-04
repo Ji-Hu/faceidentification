@@ -8,9 +8,17 @@
 
 - This repo's origin code from (https://github.com/TreB1eN/InsightFace_Pytorch)
 
+- python 3.6
+
+- nvidia driver : 410.78
+
+- cuda : 10.0
+
+- pytorch : 1.4.0
+
 ------
 
-## 2. Pretrained Models & Performance
+## 2. Pretrained Models
 
 Pre-trained model is here [Google drive](https://drive.google.com/drive/folders/1S8w9ADr_86iEkWklhE8jfvctT5vzmlnr?usp=sharing)
 
