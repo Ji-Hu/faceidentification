@@ -12,10 +12,9 @@
 
 ## 2. Pretrained Models & Performance
 
-Pre-trained model is here
+Pre-trained model is here [Google drive](https://drive.google.com/drive/folders/1S8w9ADr_86iEkWklhE8jfvctT5vzmlnr?usp=sharing)
 
-Mobilefacenet
-Ir_se
+Mobilefacenet and Ir_se
 
 
 ## 3. How to use
