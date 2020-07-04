@@ -37,6 +37,9 @@ data/facebank/
             ---> id3_1.jpg
            ---> id3_2.jpg
 ```
+I prepare facebank for news and parasite videos. please name it as facebank
+The videos are not provided
+
 
 #### 3.1.2 download the pretrained model to work_space/save
 
