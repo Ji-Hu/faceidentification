@@ -51,8 +51,9 @@ The videos are not provided
 
 #### 3.1.2 download the pretrained model to work_space/save
 
-model file name as 'final_model' for gpu or 'final_model_cpu' for cpu
+model file name as 'final_model' for GPU or 'final_model_cpu' for CPU
 
+provided pre trained models are GPU version
 
 ### 3.2 detect over video:
 
