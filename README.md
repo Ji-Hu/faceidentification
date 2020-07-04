@@ -23,6 +23,14 @@ Pre-trained model is here [Google drive](https://drive.google.com/drive/folders/
 
 Mobilefacenet and Ir_se
 
+### 2.1 set configuration
+
+set the model configuration in config.py line 19
+
+```
+conf.use_mobilfacenet = True
+```
+if True, you will use mobliefacenet or else
 
 ## 3. How to use
 
