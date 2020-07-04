@@ -1,5 +1,4 @@
-# InsightFace_Pytorch
-
+# face detection and identification
 
 
 ------
