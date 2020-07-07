@@ -68,7 +68,7 @@ def face_detection(video_path, result_csv_path):
                     df = df.append({'frame_number':framecounter, 'ID':names[results[idx] + 1], 'LT':(bbox[0],bbox[1]), 'RB':(bbox[2],bbox[3]), 'score':'{:.2f}'.format(score[idx])}, ignore_index=True)
 
             #video_writer.write(frame)
-            print('{0:.2f}' .format(framecounter/duration*100))
+            #print('{0:.2f}' .format(framecounter/duration*100))
             framecounter +=1
         else:
             break
