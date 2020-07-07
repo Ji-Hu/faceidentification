@@ -33,7 +33,7 @@ def face_detection(video_path, result_csv_path):
     fps = cap.get(cv2.CAP_PROP_FPS)
     #video writer
     #video_writer = cv2.VideoWriter(str(conf.facebank_path/'{}.avi'.format(args.save_name)),
-                                   cv2.VideoWriter_fourcc(*'XVID'), int(fps), (int(cap.get(3)),int(cap.get(4))))
+#                                    cv2.VideoWriter_fourcc(*'XVID'), int(fps), (int(cap.get(3)),int(cap.get(4))))
     #video_writer = cv2.VideoWriter(str(conf.facebank_path/'{}.avi'.format(args.save_name)),
     #                               cv2.CAP_OPENCV_MJPEG, int(fps), (int(cap.get(3)),int(cap.get(4))))
     
