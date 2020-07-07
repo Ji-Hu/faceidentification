@@ -74,5 +74,5 @@ def face_detection(video_path, result_csv_path):
             break
       
     cap.release()
-    video_writer.release()
+    #video_writer.release()
     df.to_csv(result_csv_path, index=False)
